@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		      Google Images Direct Link
-// @version		    1.0.0
+// @version		    1.0.1
 // @description   Add direct links to the picture to the Google Image Search results.
 // @include		    /^https?:\/\/(www\.)?google\.[a-z\.]{2,5}\/search.*tbm=isch.*/
 // @include		    /^https?:\/\/(www\.)?google\.[a-z\.]{2,5}\/search.*udm=2.*/
