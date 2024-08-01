@@ -1,0 +1,8 @@
+"singleQuote": true
+"semi": false
+"printWidth": 160
+"trailingComma": "none"
+"endOfLine": "crlf"
+"tabWidth": 4
+"useTabs": true
+"arrowParens": "avoid"
